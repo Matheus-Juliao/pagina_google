@@ -1,0 +1,114 @@
+#texto {
+	font-family: arial;
+	text-align: right;
+	color: #1A1C1E ;
+	font-size: 14px;
+	padding: 5px;
+}
+
+.gmail {
+	display: inline;
+	vertical-align: middle;
+}
+
+.imagens {
+	display: inline;
+	padding-right: 20px;
+	padding-left: 12px;
+	vertical-align: middle;
+}
+
+#imagemOpcao {
+	display: inline;
+	width: 3%;
+	vertical-align: middle;
+}
+
+ #imagemOpcao input {
+	background-color: #237ED9;
+	height: 37.5px;
+	width: 122.5px;
+	color: white;
+	border: 0;
+	border-radius: 4px;
+	margin-right: 10px;
+	margin-left: 15px;
+	margin-top: 3px;
+}
+
+#imgGoogle {
+	display: inline;
+	margin-left: 40%; 
+}
+
+#barraPesquisa {
+	display: flex;
+	margin-left: 28%;
+	margin-top: 15px;
+}
+
+#inputPesquisa {
+	font-size: 14px;
+	box-shadow: 0 0 0 0;
+	border: 0 none;
+	outline: 0;
+	margin-top: 6px;
+	margin-left: 40px;
+	height: 35px;
+	width: 450px;
+	position: absolute;
+}
+
+#botoesPesquisa {
+	margin-left: 40%;
+	margin-top: 30px;
+}
+
+#botoesPesquisa input {
+	border: 0;
+	border-radius: 4px;
+	margin-right: 30px;
+	background-color: #F1F8F2;
+	padding: 10px;
+	color: #3F423F;
+	font-size: 14px;
+}
+
+footer {
+	background: #ECF6EE;
+	color: #717772;
+	bottom: 0;
+	margin: 0;
+	padding: 0;
+	position: absolute;
+	width: 100%;
+	height: 17%;
+}
+
+#brasil {
+	font-family: arial;
+	padding: 18px;
+	font-size: 14px;
+}
+
+#borda {
+	background: #C0CAC1;
+	height: 1px;
+	width: 100%;
+}
+
+#footer p {
+	font-family: arial;
+	display: inline;
+	padding: 20px;
+	padding-bottom: 0;
+	font-size: 14px;
+}
+
+#footer {
+	margin-top: 20px;
+	padding-bottom: 0;	
+}
+#right {
+	margin-left: 37%;
+}
